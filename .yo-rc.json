@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "halona",
+    "packageName": "com.qinti.halona",
+    "packageFolder": "com/qinti/halona",
+    "authenticationType": "oauth2",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "hazelcast",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8"
+  }
+}
